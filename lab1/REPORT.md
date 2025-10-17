@@ -255,7 +255,20 @@ This coffee shop demonstrates how SOLID principles create maintainable, extensib
 
 ---
 
+## 🔗 GitHub Repository
+**Source Code:** [https://github.com/blinduandi/TMPS-Labs](https://github.com/blinduandi/TMPS-Labs)
+
+The complete project is available on GitHub with:
+- ✅ All source code files
+- ✅ Proper git history and commits  
+- ✅ README with project overview
+- ✅ Clean project structure
+- ✅ .gitignore for Java projects
+
+---
+
 **Lab completed by:** Andi Blindu (FAF-233)  
 **Date:** October 17, 2025  
 **Total files created:** 11  
-**SOLID principles demonstrated:** All 5 (S, O, L, I, D)
+**SOLID principles demonstrated:** All 5 (S, O, L, I, D)  
+**Repository:** https://github.com/blinduandi/TMPS-Labs
